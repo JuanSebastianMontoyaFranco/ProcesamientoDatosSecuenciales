@@ -1,4 +1,4 @@
-# ProcessAudioIA
+# ProcessAudioIA - Frontend
 
 ## 📁 Project Access
 **Install project**
