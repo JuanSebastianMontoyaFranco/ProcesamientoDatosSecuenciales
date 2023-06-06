@@ -4,11 +4,16 @@ PLN audio processing using hugging-face models such as sentiment-analysis and au
 ## 📁 Project Access
 **Install dependencies**
 ```ruby
+pip install tensorflow
+pip install torch
+pip install torchaudio
 pip install transformers
 pip install --no-cache-dir transformers sentencepiece
 pip install kenlm
+pip install https://github.com/kpu/kenlm/archive/master.zip
 pip install pyctcdecode
-pip install flask, librosa
+pip install flask
+pip install librosa
 ```
 **Models used**
 
